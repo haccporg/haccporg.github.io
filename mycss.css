@@ -1,0 +1,78 @@
+.title01 {
+	font-family: "標楷體";
+	color: #F60;
+	font-size: 36px;
+	text-align: left;
+	font-weight: bold;
+	border-top-width: 1px;
+	border-top-style: solid;
+}
+.p01 {
+	font-size: 3em;
+	color: #F60;
+	letter-spacing: 10em;
+	width: 750px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	font-family: "標楷體";
+	font-weight: bold;
+}
+.note {
+	background-color: #FF0;
+}
+h2 {
+	font-family: "標楷體";
+	font-size: 2em;
+	color: #390;
+	border-bottom-width: 1px;
+	border-left-width: 0.8em;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-bottom-color: #F60;
+	border-left-color: #F60;
+	padding-left: 10px;
+	width: 750px;
+	margin-left: 20px;
+}
+h3 {
+	font-size: 1.5em;
+	color: #00F;
+	background-image: url(images/leaf_0025.gif);
+	background-repeat: no-repeat;
+	padding-left: 40px;
+	margin-left: 40px;
+	font-family: "標楷體";
+}
+hr {
+	color: #09F;
+}
+h4 {
+	font-size: 2ex;
+	font-weight: normal;
+	color: #000;
+	padding-left: 25px;
+	font-family: "標楷體";
+}
+.h5 {
+	font-family: "標楷體";
+	font-size: 1.1em;
+}
+
+ol {
+	margin-left: 60px;
+	text-align: left;
+	font-family: "新細明體";
+}
+.table_border_66666 {
+	border: 1px solid #666;
+	color: #666;
+}
+img {
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	color: #FFF;
+	font-size: 14px;
+}
